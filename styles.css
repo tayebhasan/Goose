@@ -3,11 +3,13 @@ text-align:center;}
 
 .line{color:skyblue;}
 
-body{background-color:#ECDFC5;}
+body{background-color:#ECDFC5;
+}
 
 h1{font-family: 'Open Sans', sans-serif;}
 
-.madtext{font-family: 'Noto Sans', sans-serif;}
+.madtext{font-family: 'Noto Sans', sans-serif;
+text-align:center;}
 
 .food{font-family: 'Noto Sans', sans-serif;
 color:orange;}
